@@ -1,3 +1,5 @@
+#@Author= lucifer-1010 
+# for more visit my github at https://www.github.cm/Lucifer-1010
 import turtle
 import time
 
